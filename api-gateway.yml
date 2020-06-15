@@ -13,7 +13,6 @@ ribbon:
       enabled: true
 
 zuul:
-   prefix: /api
    ignoredServices: '*'
    host:
       time-to-live: -1
